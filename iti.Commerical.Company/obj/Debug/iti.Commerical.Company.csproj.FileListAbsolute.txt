@@ -1,0 +1,28 @@
+G:\iti traning\ITI\Technologies\LINQ\iti.Commerical.Company\iti.Commerical.Company\bin\Debug\iti.Commerical.Company.exe.config
+G:\iti traning\ITI\Technologies\LINQ\iti.Commerical.Company\iti.Commerical.Company\bin\Debug\iti.Commerical.Company.exe
+G:\iti traning\ITI\Technologies\LINQ\iti.Commerical.Company\iti.Commerical.Company\bin\Debug\iti.Commerical.Company.pdb
+G:\iti traning\ITI\Technologies\LINQ\iti.Commerical.Company\iti.Commerical.Company\bin\Debug\EntityFramework.dll
+G:\iti traning\ITI\Technologies\LINQ\iti.Commerical.Company\iti.Commerical.Company\bin\Debug\EntityFramework.SqlServer.dll
+G:\iti traning\ITI\Technologies\LINQ\iti.Commerical.Company\iti.Commerical.Company\bin\Debug\EntityFramework.xml
+G:\iti traning\ITI\Technologies\LINQ\iti.Commerical.Company\iti.Commerical.Company\bin\Debug\EntityFramework.SqlServer.xml
+G:\iti traning\ITI\Technologies\LINQ\iti.Commerical.Company\iti.Commerical.Company\obj\Debug\iti.Commerical.Company.csprojAssemblyReference.cache
+G:\iti traning\ITI\Technologies\LINQ\iti.Commerical.Company\iti.Commerical.Company\obj\Debug\iti.Commerical.Company.Form1.resources
+G:\iti traning\ITI\Technologies\LINQ\iti.Commerical.Company\iti.Commerical.Company\obj\Debug\iti.Commerical.Company.Properties.Resources.resources
+G:\iti traning\ITI\Technologies\LINQ\iti.Commerical.Company\iti.Commerical.Company\obj\Debug\iti.Commerical.Company.csproj.GenerateResource.cache
+G:\iti traning\ITI\Technologies\LINQ\iti.Commerical.Company\iti.Commerical.Company\obj\Debug\iti.Commerical.Company.csproj.CopyComplete
+G:\iti traning\ITI\Technologies\LINQ\iti.Commerical.Company\iti.Commerical.Company\obj\Debug\iti.Commerical.Company.exe
+G:\iti traning\ITI\Technologies\LINQ\iti.Commerical.Company\iti.Commerical.Company\obj\Debug\iti.Commerical.Company.pdb
+G:\professional web development and BI Training 9 month      240g\ITI\1.Technologies\3.Net\26LINQ\iti.Commerical.Company\iti.Commerical.Company\bin\Debug\iti.Commerical.Company.exe.config
+G:\professional web development and BI Training 9 month      240g\ITI\1.Technologies\3.Net\26LINQ\iti.Commerical.Company\iti.Commerical.Company\bin\Debug\iti.Commerical.Company.exe
+G:\professional web development and BI Training 9 month      240g\ITI\1.Technologies\3.Net\26LINQ\iti.Commerical.Company\iti.Commerical.Company\bin\Debug\iti.Commerical.Company.pdb
+G:\professional web development and BI Training 9 month      240g\ITI\1.Technologies\3.Net\26LINQ\iti.Commerical.Company\iti.Commerical.Company\bin\Debug\EntityFramework.dll
+G:\professional web development and BI Training 9 month      240g\ITI\1.Technologies\3.Net\26LINQ\iti.Commerical.Company\iti.Commerical.Company\bin\Debug\EntityFramework.SqlServer.dll
+G:\professional web development and BI Training 9 month      240g\ITI\1.Technologies\3.Net\26LINQ\iti.Commerical.Company\iti.Commerical.Company\bin\Debug\EntityFramework.xml
+G:\professional web development and BI Training 9 month      240g\ITI\1.Technologies\3.Net\26LINQ\iti.Commerical.Company\iti.Commerical.Company\bin\Debug\EntityFramework.SqlServer.xml
+G:\professional web development and BI Training 9 month      240g\ITI\1.Technologies\3.Net\26LINQ\iti.Commerical.Company\iti.Commerical.Company\obj\Debug\iti.Commerical.Company.csprojAssemblyReference.cache
+G:\professional web development and BI Training 9 month      240g\ITI\1.Technologies\3.Net\26LINQ\iti.Commerical.Company\iti.Commerical.Company\obj\Debug\iti.Commerical.Company.Form1.resources
+G:\professional web development and BI Training 9 month      240g\ITI\1.Technologies\3.Net\26LINQ\iti.Commerical.Company\iti.Commerical.Company\obj\Debug\iti.Commerical.Company.Properties.Resources.resources
+G:\professional web development and BI Training 9 month      240g\ITI\1.Technologies\3.Net\26LINQ\iti.Commerical.Company\iti.Commerical.Company\obj\Debug\iti.Commerical.Company.csproj.GenerateResource.cache
+G:\professional web development and BI Training 9 month      240g\ITI\1.Technologies\3.Net\26LINQ\iti.Commerical.Company\iti.Commerical.Company\obj\Debug\iti.Commerical.Company.csproj.CopyComplete
+G:\professional web development and BI Training 9 month      240g\ITI\1.Technologies\3.Net\26LINQ\iti.Commerical.Company\iti.Commerical.Company\obj\Debug\iti.Commerical.Company.exe
+G:\professional web development and BI Training 9 month      240g\ITI\1.Technologies\3.Net\26LINQ\iti.Commerical.Company\iti.Commerical.Company\obj\Debug\iti.Commerical.Company.pdb
